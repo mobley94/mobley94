@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Vulnerability Assessment                      | <a href="https://docs.google.com/document/d/1MutA8qMOALTUHfxA-Az5Hc5ZI-txFkxvrlCll4daGeA/edit?usp=sharing">Vulnerability</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
