@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident Response Planning and Execution      | <a href="https://docs.google.com/document/d/1ex1ItL1a-K1N0zDUfoyHwHTWjwut-oUYmeikiimWPYc/edit?usp=sharing">SOC Lab</a>|
 | Vulnerability Assessment                      | <a href="https://docs.google.com/document/d/1MutA8qMOALTUHfxA-Az5Hc5ZI-txFkxvrlCll4daGeA/edit?usp=sharing">Vulnerability</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
