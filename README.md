@@ -1,7 +1,7 @@
 # Hello, I'm Brandon Munroe
 <a href="www.linkedin.com/in/brandon-munroe-7a9b6123a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+
 
 I have recently transitiioned into cyber security. I come with a profound interest in technology and a dedication to solving complex problems.
 
